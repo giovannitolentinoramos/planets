@@ -1,2 +1,3 @@
 
-marsdata <- read.csv("marsdata.txt)
+marsdata <- read.csv("data/marsdata.txt)
+
